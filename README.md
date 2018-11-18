@@ -1,0 +1,15 @@
+# Bluetooth
+
+就目前而言，设备带有蓝牙功能已经是很普遍的事情了，所以花点时间研究一下底层是如何实现的。在遇到问题的时候，了解底层工作原理可以更快速的定位问题可能出在数据处理的哪个阶段。
+
+## 参考文档
+
+* [BLE节点 蓝牙4.0 CC2540 2541 SmartRF开发板 低功耗](https://detail.tmall.com/item.htm?spm=a230r.1.14.6.551d5c8chc2pC3&id=564867661483&cm_id=140105335569ed55e27b&abbucket=6)
+* [蓝牙4.0 BLE开发完全手册 物联网开发技术实战电子书，基于CC2540](https://e2echina.ti.com/question_answer/wireless_connectivity/bluetooth/f/103/t/156405)
+* [CC2540 and CC2541 Bluetooth® low energy Software Developer’s (Rev. G)](http://www.ti.com/lit/ug/swru271g/swru271g.pdf)
+* [CC2541 (ACTIVE) Bluetooth low energy and proprietary wireless MCU](http://www.ti.com/product/CC2541/technicaldocuments)
+
+* [C2540 and CC2541 Bluetooth low energy Software Developer’s Reference Guide.pdf](./docs/refers/C2540_and_CC2541_Bluetooth_low_energy_Software_Developer’s_Reference_Guide.pdf)
+
+## 笔记文档
+ 
