@@ -11,5 +11,13 @@
 
 * [C2540 and CC2541 Bluetooth low energy Software Developer’s Reference Guide.pdf](./docs/refers/C2540_and_CC2541_Bluetooth_low_energy_Software_Developer’s_Reference_Guide.pdf)
 
+开发板的资料需要购买后问客服要，不过很多的资料也是从TI官网来的。
+
+## Hardware
+
+![./docs/images/Hardware_For_BLE_Learning.jpg](./docs/images/Hardware_For_BLE_Learning.jpg)
+
 ## 笔记文档
  
+* [0002_BLE_Base.md](./docs/0002_BLE_Base.md)
+* [0001_Development_Kit_Download.md](./docs/0001_Development_Kit_Download.md)
