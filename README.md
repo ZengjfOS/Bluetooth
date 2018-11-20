@@ -19,5 +19,6 @@
 
 ## 笔记文档
  
+* [0003_OSAL.md](./docs/0003_OSAL.md)
 * [0002_BLE_Base.md](./docs/0002_BLE_Base.md)
 * [0001_Development_Kit_Download.md](./docs/0001_Development_Kit_Download.md)
