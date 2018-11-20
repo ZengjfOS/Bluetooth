@@ -2,7 +2,8 @@
 
 ## 参考文档
 
-[蓝牙4.0 BLE开发完全手册 物联网开发技术实战电子书，基于CC2540](https://e2echina.ti.com/question_answer/wireless_connectivity/bluetooth/f/103/t/156405)
+* **重点阅读这篇文档，下面这本书很多内容来自这篇文档**：`C:\Texas Instruments\BLE-CC254x-1.4.2.2\Documents\TI_BLE_Software_Developer's_Guide.pdf`
+* [蓝牙4.0 BLE开发完全手册 物联网开发技术实战电子书，基于CC2540](https://e2echina.ti.com/question_answer/wireless_connectivity/bluetooth/f/103/t/156405)
 
 ## 蓝牙4.0架构
 
