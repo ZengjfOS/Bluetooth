@@ -19,6 +19,8 @@
 
 ## 笔记文档
  
+* [0006_Android_BLE_Debuger.md](./docs/0006_Android_BLE_Debuger.md)
+* [0005_CC254x_Reference_Manual.md](./docs/0005_CC254x_Reference_Manual.md)
 * [0004_BLE_Protocol_Stack.md](./docs/0004_BLE_Protocol_Stack.md)
 * [0003_OSAL.md](./docs/0003_OSAL.md)
 * [0002_BLE_Base.md](./docs/0002_BLE_Base.md)
