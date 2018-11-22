@@ -429,3 +429,7 @@ static gattAttribute_t simpleProfileAttrTbl[SERVAPP_NUM_ATTR_SUPPORTED] =
           ```
 
 GATT表`simpleProfileAttrTbl`在系统初始化阶段就被加载了。
+
+## SimpleBLEPeripheral Test
+
+![./images/GATT_SimpleBLEPeripheral_Write_And_Notify.jpg](./images/GATT_SimpleBLEPeripheral_Write_And_Notify.jpg)

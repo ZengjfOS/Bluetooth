@@ -6,6 +6,7 @@
 
 ## Android BLE Debuger Install
 
+* **BLE Scanner**比blecore更好用
 * https://github.com/fszeng2011/blecore
 * 华为手机可以直接在AppGallery检索安装：`BLE Debugger`  
   ![./images/BLECORE_Main_Page.jpg](./images/BLECORE_Main_Page.jpg)
