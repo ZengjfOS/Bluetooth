@@ -1,4 +1,4 @@
-# SimpleBLEPeripheral Hack
+# SimpleBLEPeripheral Key Hack
 
 ## 参考文档
 
