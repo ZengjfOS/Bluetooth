@@ -23,6 +23,7 @@
 
 ## 笔记文档
  
+* [0011_HostTestRelease.md](./docs/0011_HostTestRelease.md)
 * [0010_Bluez_HCI_Principle.md](./docs/0010_Bluez_HCI_Principle.md)
 * [0009_SimpleBLEPeripheral_Init_Hack.md](./docs/0009_SimpleBLEPeripheral_Init_Hack.md)
 * [0008_SimpleBLEPeripheral_GATT_Definition_Hack.md](./docs/0008_SimpleBLEPeripheral_GATT_Definition_Hack.md)
