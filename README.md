@@ -23,6 +23,8 @@
 
 ## 笔记文档
  
+* [0013_SmartRF_Packet_Sniffer.md](./docs/0013_SmartRF_Packet_Sniffer.md)
+* [0012_BTool.md](./docs/0012_BTool.md)
 * [0011_HostTestRelease.md](./docs/0011_HostTestRelease.md)
 * [0010_Bluez_HCI_Principle.md](./docs/0010_Bluez_HCI_Principle.md)
 * [0009_SimpleBLEPeripheral_Init_Hack.md](./docs/0009_SimpleBLEPeripheral_Init_Hack.md)
